@@ -1,6 +1,6 @@
-# Threads.com Following Feed Only Opener
+# Threadsflow
 
-A simple Chrome extension that automatically opens the **Following** feed on [Threads.com](https://threads.com) and hides unnecessary UI elements for a cleaner browsing experience.
+A simple Chrome extension that automatically opens the 'Following' feed on Threads.com.
 
 ## Features
 
