@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Threads.com Auto-Following & Clean UI",
+  "name": "Threadflow",
   "version": "1.0",
   "description": "Automatically opens the 'Following' feed on Threads.com.",
   "icons": {
